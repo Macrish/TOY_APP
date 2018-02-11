@@ -1,24 +1,10 @@
-# README
+# TOY APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The TOY APP has:
 
-Things you may want to cover:
+* users & microposts
 
-* Ruby version
+* validation of name, email & content of micropost
 
-* System dependencies
+* display of user's post
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
